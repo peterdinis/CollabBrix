@@ -23,6 +23,7 @@ const Hero: FC = () => {
             opacity: 1
         }
     };
+    
     const [isVideoModalOpen, setIsVideoModalOpen] = useState(false);
     return (
         <>
