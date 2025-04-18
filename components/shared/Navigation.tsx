@@ -57,7 +57,7 @@ const Navigation: FC = () => {
                         >
                             <Blocks className="h-6 w-6 text-blue-600" />
                         </motion.div>
-                        <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 text-transparent bg-clip-text">Loop</span>
+                        <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 text-transparent bg-clip-text">CollabBrix</span>
                     </motion.div>
 
                     <motion.div
